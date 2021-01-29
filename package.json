@@ -1,0 +1,9 @@
+{
+  "name": "futuro",
+  "version": "0.0.1",
+  "description": "Il futuro.",
+  "main": "index.js",
+  "repository": "https://github.com/pre63/futuro",
+  "author": "pre63",
+  "license": "MIT"
+}
